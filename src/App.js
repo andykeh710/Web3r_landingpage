@@ -12,11 +12,10 @@ function App() {
       <SplineViewer />
       <div className="content-wrapper">
         <main className="glass-effect">
-          <h1>We solve problems with Web3 and A.I.</h1>
+          <h1>Revolutionizing the Future with Web3 and A.I.</h1>
           <div className="text-overlay">
             <p className="Mission-statement">
-              Since 2022, we have been at the forefront of crafting the next generation of A.I. technology solutions. Our focus transcends traditional boundaries, merging cutting-edge tools with familiar environments to create user-friendly, enterprise-grade applications for both businesses and consumers.
-            </p>
+            Since 2022, we’ve been pioneers in transforming industries through the power of Web3 and A.I. Our mission is to redefine possibilities by blending advanced artificial intelligence with decentralized technology, delivering intuitive, enterprise-grade solutions. From empowering businesses to enhancing consumer experiences, we build future-ready applications that seamlessly integrate with existing ecosystems—making the complex simple and the innovative accessible.            </p>
           </div>
           <a
             className="Cta-button"
